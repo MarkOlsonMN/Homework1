@@ -12,4 +12,4 @@ URL:        https://github.com/MarkOlsonMN/Homework1
 ## Code Source/Location within this Repo
 ReadMe:          Homework1/README.md  
 Excel Workbook:  Homework1/Starter_Code/CrowdfundingBook.xlsx  
-Written Report:    
+Written Report:  Homework1/Written_Report.docx
