@@ -3,7 +3,7 @@
 ## Module 1 Challenge
 Class:      U of M Data Analytics and Visualization Boot Camp , Spring 2024  
 Student:    Mark Olson  
-Professor:  Thomas Bogue  ,  Assisted by Jordan Tompkins
+Professor:  Thomas Bogue  ,  Assisted by Jordan Tompkins  
 Date:       04/04/2024  
 
 ## Location of this Repro (Public)
